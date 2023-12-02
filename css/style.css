@@ -1,0 +1,148 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	background-image: url("https://st4.depositphotos.com/1400069/25522/i/450/depositphotos_255227750-stock-photo-green-gradient-background-abstract-blurry.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: center center;
+}
+
+.mainDiv
+{
+	height: 98%;
+	width: 90%;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: 0;
+	border: 5px solid darkgreen;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px 10px darkgreen;
+	text-align: center;
+	font-family: Times New Roman;
+}
+
+.cardDiv
+{
+	background: radial-gradient(limegreen, forestgreen, green);
+	height: 47%;
+	width: 90%;
+	margin: 1% auto 0%;
+	border: 5px solid darkgreen;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px 10px darkgreen;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	color: darkgreen;
+	font-family: Times New Roman;
+	font-size: 300%;
+	cursor: pointer;
+}
+
+.stepsDiv
+{
+	background: radial-gradient(limegreen, forestgreen, green);
+	height: 10%;
+	width: 90%;
+	margin: 0% auto;
+	border: 5px solid darkgreen;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px 10px darkgreen;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	color: darkgreen;
+	font-family: Times New Roman;
+	font-size: 200%;
+}
+
+input
+{
+	background: radial-gradient(limegreen, forestgreen, green);
+	height: 5%;
+	width: 90%;
+	margin: 0% auto;
+	border: 5px solid darkgreen;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px 10px darkgreen;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	color: darkgreen;
+	font-family: Times New Roman;
+	font-size: 200%;
+}
+
+.statistic
+{
+	background: radial-gradient(limegreen, forestgreen, green);
+	height: 7%;
+	width: 90%;
+	margin: 0% auto;
+	border: 5px solid darkgreen;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px 10px darkgreen;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	color: darkgreen;
+	font-family: Times New Roman;
+	font-size: 200%;
+}
+
+.counter
+{
+	background: radial-gradient(limegreen, forestgreen, green);
+	height: 7%;
+	width: 90%;
+	margin: 0% auto;
+	border: 5px solid darkgreen;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px 10px darkgreen;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	font-family: Times New Roman;
+}
+
+.levelEnglish
+{
+	background: radial-gradient(limegreen, forestgreen, green);
+	height: 7%;
+	width: 90%;
+	margin: 0% auto;
+	border: 5px solid darkgreen;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px 10px darkgreen;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: darkgreen;
+	font-family: Times New Roman;
+	font-size: 200%;
+}
+
+.smallCounter
+{
+	height: 100%;
+	width: 50%;
+	border-radius: 10px;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	color: darkgreen;
+	font-family: Times New Roman;
+	font-size: 200%;
+}
+
+
